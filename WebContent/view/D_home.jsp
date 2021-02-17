@@ -283,6 +283,6 @@ ul.menu>li ul.sub>li:hover {
 	</div>
 	<footer id="main_footer">
 		<h3>WAW Dictionary footer part</h3>
-		<address>여기에는 주소가 들어가웅앵</address>
+		<address>여기에는 주소가 있어요</address>
 	</footer>
 </html>
