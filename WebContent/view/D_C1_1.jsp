@@ -190,7 +190,7 @@ ul.left_menu>li a {
 		<div class="menu2">
 			<ul class="left_menu">
 				<li>WAW사전이란?</li>
-				<li onclick="send_D_C1_2()">만든이들</li>
+				<li onclick="send_D_C1_2()">만든이</li>
 			</ul>
 		
 		</div>
